@@ -34,7 +34,7 @@ A production-grade financial analytics dashboard for Capitec that provides compr
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone <https://github.com/Selaelo1/customer-spending-dashboard>
 cd customer-spending-dashboard
 
 # Install dependencies
